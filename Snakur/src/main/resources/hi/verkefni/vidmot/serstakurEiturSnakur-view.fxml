@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.Rectangle?>
+
+
+<fx:root fx:id="fxSerstakurEiturSnakur" arcHeight="5.0" arcWidth="5.0" fill="#8100e8" height="20.0" stroke="BLACK" strokeType="INSIDE" type="javafx.scene.shape.Rectangle" width="20.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" />
